@@ -1,16 +1,11 @@
-# flutter_appbar_6
+Herkese Merhaba !
 
-A new Flutter project.
+Bu proje Flutter kullanarak basit bir mobil uygulama geliştirmenize yardımcı olacak bir örnektir. Proje ,appBar örneği içermekte olup, özellikle Flutter'a yeni başlayanlar için ideal bir kaynak sunmaktadır.
 
-## Getting Started
+Bu projede AppBar widgetını kullanarak WhatsApp uygulamasının arayüzünü yapmak istedim,Umarım işinize yarar.
 
-This project is a starting point for a Flutter application.
+Flutter, kullanımı kolay arayüz bileşenleri ve hızlı performansı ile mobil uygulama geliştirmenin en popüler araçlarından biridir. Proje, Flutter'ın temel kavramlarına aşina olmanızı ve bir mobil uygulama geliştirmek için gerekli olan adımları öğrenmenizi sağlayacaktır.
 
-A few resources to get you started if this is your first Flutter project:
+Bu seride toplamda 10 tane farklı eklentileriyle AppBar projeleri paylaşacağım.Takipte kalın...
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Flutter_AppBar_6](https://user-images.githubusercontent.com/114624213/227062823-e6872ace-e622-43d9-ad86-6fd18a44c219.jpg)
