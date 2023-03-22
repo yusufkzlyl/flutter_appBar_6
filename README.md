@@ -2,7 +2,7 @@ Herkese Merhaba !
 
 Bu proje Flutter kullanarak basit bir mobil uygulama geliştirmenize yardımcı olacak bir örnektir. Proje ,appBar örneği içermekte olup, özellikle Flutter'a yeni başlayanlar için ideal bir kaynak sunmaktadır.
 
-Bu projede AppBar widgetını kullanarak WhatsApp uygulamasının arayüzünü yapmak istedim,Umarım işinize yarar.
+Bu projede AppBar widgetını kullanarak WhatsApp uygulamasının arayüzünü yapmak istedim.Bu serinin devamında farklı platformların arayüzlerinipaylaşacağım.Umarım işinize yarar.Herkese kolay gelsin.
 
 Flutter, kullanımı kolay arayüz bileşenleri ve hızlı performansı ile mobil uygulama geliştirmenin en popüler araçlarından biridir. Proje, Flutter'ın temel kavramlarına aşina olmanızı ve bir mobil uygulama geliştirmek için gerekli olan adımları öğrenmenizi sağlayacaktır.
 
